@@ -1,0 +1,7 @@
+C:\Users\matia\source\repos\String_mach_checker\String_mach_checker\bin\Debug\String_mach_checker.exe.config
+C:\Users\matia\source\repos\String_mach_checker\String_mach_checker\bin\Debug\String_mach_checker.exe
+C:\Users\matia\source\repos\String_mach_checker\String_mach_checker\bin\Debug\String_mach_checker.pdb
+C:\Users\matia\source\repos\String_mach_checker\String_mach_checker\obj\Debug\String_mach_checker.csprojAssemblyReference.cache
+C:\Users\matia\source\repos\String_mach_checker\String_mach_checker\obj\Debug\String_mach_checker.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\String_mach_checker\String_mach_checker\obj\Debug\String_mach_checker.exe
+C:\Users\matia\source\repos\String_mach_checker\String_mach_checker\obj\Debug\String_mach_checker.pdb

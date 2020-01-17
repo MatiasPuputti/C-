@@ -1,0 +1,7 @@
+C:\Users\matia\source\repos\Teht4\Teht4\bin\Debug\Teht4.exe.config
+C:\Users\matia\source\repos\Teht4\Teht4\bin\Debug\Teht4.exe
+C:\Users\matia\source\repos\Teht4\Teht4\bin\Debug\Teht4.pdb
+C:\Users\matia\source\repos\Teht4\Teht4\obj\Debug\Teht4.csprojAssemblyReference.cache
+C:\Users\matia\source\repos\Teht4\Teht4\obj\Debug\Teht4.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Teht4\Teht4\obj\Debug\Teht4.exe
+C:\Users\matia\source\repos\Teht4\Teht4\obj\Debug\Teht4.pdb

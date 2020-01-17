@@ -1,0 +1,7 @@
+C:\Users\matia\source\repos\Palindromi\Palindromi\bin\Debug\Palindromi.exe.config
+C:\Users\matia\source\repos\Palindromi\Palindromi\bin\Debug\Palindromi.exe
+C:\Users\matia\source\repos\Palindromi\Palindromi\bin\Debug\Palindromi.pdb
+C:\Users\matia\source\repos\Palindromi\Palindromi\obj\Debug\Palindromi.csprojAssemblyReference.cache
+C:\Users\matia\source\repos\Palindromi\Palindromi\obj\Debug\Palindromi.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Palindromi\Palindromi\obj\Debug\Palindromi.exe
+C:\Users\matia\source\repos\Palindromi\Palindromi\obj\Debug\Palindromi.pdb

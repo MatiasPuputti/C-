@@ -1,0 +1,7 @@
+C:\Users\matia\source\repos\AsiakasRekisteri\AsiakasRekisteri\bin\Debug\AsiakasRekisteri.exe.config
+C:\Users\matia\source\repos\AsiakasRekisteri\AsiakasRekisteri\bin\Debug\AsiakasRekisteri.exe
+C:\Users\matia\source\repos\AsiakasRekisteri\AsiakasRekisteri\bin\Debug\AsiakasRekisteri.pdb
+C:\Users\matia\source\repos\AsiakasRekisteri\AsiakasRekisteri\obj\Debug\AsiakasRekisteri.csprojAssemblyReference.cache
+C:\Users\matia\source\repos\AsiakasRekisteri\AsiakasRekisteri\obj\Debug\AsiakasRekisteri.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\AsiakasRekisteri\AsiakasRekisteri\obj\Debug\AsiakasRekisteri.exe
+C:\Users\matia\source\repos\AsiakasRekisteri\AsiakasRekisteri\obj\Debug\AsiakasRekisteri.pdb

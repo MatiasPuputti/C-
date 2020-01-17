@@ -1,0 +1,7 @@
+C:\Users\matia\source\repos\Teht1\Teht1\bin\Debug\Teht1.exe.config
+C:\Users\matia\source\repos\Teht1\Teht1\bin\Debug\Teht1.exe
+C:\Users\matia\source\repos\Teht1\Teht1\bin\Debug\Teht1.pdb
+C:\Users\matia\source\repos\Teht1\Teht1\obj\Debug\Teht1.csprojAssemblyReference.cache
+C:\Users\matia\source\repos\Teht1\Teht1\obj\Debug\Teht1.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Teht1\Teht1\obj\Debug\Teht1.exe
+C:\Users\matia\source\repos\Teht1\Teht1\obj\Debug\Teht1.pdb

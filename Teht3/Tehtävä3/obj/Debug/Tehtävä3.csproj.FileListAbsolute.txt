@@ -1,0 +1,7 @@
+C:\Users\matia\source\repos\Tehtävä3\Tehtävä3\bin\Debug\Tehtävä3.exe.config
+C:\Users\matia\source\repos\Tehtävä3\Tehtävä3\bin\Debug\Tehtävä3.exe
+C:\Users\matia\source\repos\Tehtävä3\Tehtävä3\bin\Debug\Tehtävä3.pdb
+C:\Users\matia\source\repos\Tehtävä3\Tehtävä3\obj\Debug\Tehtävä3.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Tehtävä3\Tehtävä3\obj\Debug\Tehtävä3.exe
+C:\Users\matia\source\repos\Tehtävä3\Tehtävä3\obj\Debug\Tehtävä3.pdb
+C:\Users\matia\source\repos\Tehtävä3\Tehtävä3\obj\Debug\Tehtävä3.csprojAssemblyReference.cache

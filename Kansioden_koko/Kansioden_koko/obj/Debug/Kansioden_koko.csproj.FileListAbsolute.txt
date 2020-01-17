@@ -1,0 +1,7 @@
+C:\Users\matia\source\repos\Kansioden_koko\Kansioden_koko\bin\Debug\Kansioden_koko.exe.config
+C:\Users\matia\source\repos\Kansioden_koko\Kansioden_koko\bin\Debug\Kansioden_koko.exe
+C:\Users\matia\source\repos\Kansioden_koko\Kansioden_koko\bin\Debug\Kansioden_koko.pdb
+C:\Users\matia\source\repos\Kansioden_koko\Kansioden_koko\obj\Debug\Kansioden_koko.csprojAssemblyReference.cache
+C:\Users\matia\source\repos\Kansioden_koko\Kansioden_koko\obj\Debug\Kansioden_koko.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Kansioden_koko\Kansioden_koko\obj\Debug\Kansioden_koko.exe
+C:\Users\matia\source\repos\Kansioden_koko\Kansioden_koko\obj\Debug\Kansioden_koko.pdb

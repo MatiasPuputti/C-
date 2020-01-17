@@ -1,0 +1,7 @@
+C:\Users\matia\source\repos\NoppaPeli\NoppaPeli\bin\Debug\NoppaPeli.exe.config
+C:\Users\matia\source\repos\NoppaPeli\NoppaPeli\bin\Debug\NoppaPeli.exe
+C:\Users\matia\source\repos\NoppaPeli\NoppaPeli\bin\Debug\NoppaPeli.pdb
+C:\Users\matia\source\repos\NoppaPeli\NoppaPeli\obj\Debug\NoppaPeli.csprojAssemblyReference.cache
+C:\Users\matia\source\repos\NoppaPeli\NoppaPeli\obj\Debug\NoppaPeli.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\NoppaPeli\NoppaPeli\obj\Debug\NoppaPeli.exe
+C:\Users\matia\source\repos\NoppaPeli\NoppaPeli\obj\Debug\NoppaPeli.pdb
