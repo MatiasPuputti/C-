@@ -1,7 +1,6 @@
 Here i have projects that i have made in school and in my freetime.
 
 They are in made with Microsoft visual studio 2017 and should have the original project folder structure.
-I have compressed the folders, and they can be  extracted for example with 7-Zip.
 
 If you just want to try and run these programs, i have compiled the projects and placed them in the Builds -folder, 
 and named them based on the project folder they are pulled from.
